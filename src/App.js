@@ -8,8 +8,8 @@ class App extends Component {
 
       this.state = {
 
-        clientId: '25e2896553b44dd0a96f',
-        clientSecret: 'a3fdb2f393d423b5570f3a361fbce61e3d4d2fbd',
+        clientId: 'YOUR CLIENT ID',
+        clientSecret: 'YOUR CLIENT SECRET',
         count: 18,
         sort: 'created: asc',
         userProfile: null,
